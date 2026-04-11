@@ -86,7 +86,7 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
 ### 🏆 Mis Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshNinjaYT&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=AshNinjaYT&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 
 <br>
@@ -101,7 +101,7 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshNinjaYT&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
