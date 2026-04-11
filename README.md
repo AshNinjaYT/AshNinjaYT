@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Ash&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+PL&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Estudiante+de+DAM;Aspirante+a+Game+Developer;Karate+Kyokushin+Fighter+%F0%9F%A5%8B" alt="Typing SVG" />
 </a>
@@ -65,14 +64,24 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
     <tr>
       <td align="center">🏈 <a href="https://github.com/AshNinjaYT/Football-Referee"><b>Football-Referee</b></a></td>
       <td>Aplicación interactiva y herramienta de gestión para árbitros de fútbol.</td>
-      <td align="center"><b>JavaScript</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></td>
     </tr>
     <tr>
       <td align="center">🖥️ <a href="https://github.com/AshNinjaYT/PCTrade"><b>PCTrade</b></a></td>
       <td>Plataforma de economía circular diseñada para la compraventa de hardware de PC de segunda mano.</td>
-      <td align="center"><b>HTML & CSS</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </td>
     </tr>
 
+    <tr>
+      <td align="center">🥋 <a href="https://github.com/AshNinjaYT/KyokushinTrainer"><b>KyokushinTrainer</b></a></td>
+      <td>Aplicación de entrenamiento interactiva para practicantes de Karate Kyokushin. (Repositorio Privado)</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
