@@ -72,11 +72,7 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
       <td>Plataforma de economía circular diseñada para la compraventa de hardware de PC de segunda mano.</td>
       <td align="center"><b>HTML & CSS</b></td>
     </tr>
-    <tr>
-      <td align="center">⛏️ <a href="https://github.com/AshNinjaYT/Minecraft-Server"><b>Minecraft-Server</b></a></td>
-      <td>Servidor de Minecraft personalizado.</td>
-      <td align="center"><b>JavaScript</b></td>
-    </tr>
+
   </tbody>
 </table>
 
