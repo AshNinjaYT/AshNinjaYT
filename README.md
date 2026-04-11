@@ -1,51 +1,111 @@
 <div align="center">
 
-# 🥷 Hola, soy AshNinjaYT
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=AshNinjaYT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-**Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma) 👨‍🎓 | Aspirante a Game Developer 🎮**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+PL&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Estudiante+de+DAM;Aspirante+a+Game+Developer;Karate+Kyokushin+Fighter+%F0%9F%A5%8B" alt="Typing SVG" />
+</a>
 
----
+<br><br>
 
-### 💻 Tecnologías y Herramientas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
-  <br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
+> 💡 *Me apasiona la creación de software sólido y el desarrollo de mundos interactivos.*
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 👾 Arsenal Tecnológico
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshNinjaYT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshNinjaYT&theme=tokyonight" alt="GitHub Streak" />
-</p>
+Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramientas:
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><b>Game Engines & C#</b></td>
+    <td align="center" width="33%"><b>Desarrollo Web & DB</b></td>
+    <td align="center" width="33%"><b>Herramientas Adicionales</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /><br><br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /><br><br>
+      <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5" />
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /><br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /><br><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br><br>
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🔥 Mis Proyectos Destacados
 
-- 🏈 [**Football-Referee**](https://github.com/AshNinjaYT/Football-Referee) — App de árbitro de fútbol en JavaScript  
-- 🖥️ [**PCTrade**](https://github.com/AshNinjaYT/PCTrade) — Plataforma de economía circular para compraventa de hardware PC de segunda mano (HTML)  
-- ⛏️ [**Minecraft-Server**](https://github.com/AshNinjaYT/Minecraft-Server) — Servidor de Minecraft (JavaScript)  
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Proyecto</th>
+      <th width="50%">Descripción</th>
+      <th width="20%">Tecnologías</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🏈 <a href="https://github.com/AshNinjaYT/Football-Referee"><b>Football-Referee</b></a></td>
+      <td>Aplicación interactiva y herramienta de gestión para árbitros de fútbol.</td>
+      <td align="center"><b>JavaScript</b></td>
+    </tr>
+    <tr>
+      <td align="center">🖥️ <a href="https://github.com/AshNinjaYT/PCTrade"><b>PCTrade</b></a></td>
+      <td>Plataforma de economía circular diseñada para la compraventa de hardware de PC de segunda mano.</td>
+      <td align="center"><b>HTML & CSS</b></td>
+    </tr>
+    <tr>
+      <td align="center">⛏️ <a href="https://github.com/AshNinjaYT/Minecraft-Server"><b>Minecraft-Server</b></a></td>
+      <td>Servidor de Minecraft personalizado.</td>
+      <td align="center"><b>JavaScript</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 ---
 
-> 💡 *"Talk is cheap. Show me the code."* — **Linus Torvalds**
+### 📊 Rendimiento y Estadísticas
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; background: transparent;">
+       <img src="https://github-readme-stats.vercel.app/api?username=AshNinjaYT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+    </td>
+    <td align="center" style="border: none; background: transparent;">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshNinjaYT&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td colspan="2" align="center" style="border: none; background: transparent;">
+       <img src="https://streak-stats.demolab.com?user=AshNinjaYT&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshNinjaYT&label=Visitas+al+perfil&color=7aa2f7&style=for-the-badge" alt="Visitas al perfil" />
+</p>
 
 </div>
