@@ -80,15 +80,31 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
 
 ---
 
+
+---
+
+### 🏆 Mis Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshNinjaYT&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+---
+
 ### 📊 Rendimiento y Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AshNinjaYT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshNinjaYT&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AshNinjaYT&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -97,4 +113,13 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
   <img src="https://komarev.com/ghpvc/?username=AshNinjaYT&label=Visitas+al+perfil&color=7aa2f7&style=for-the-badge" alt="Visitas al perfil" />
 </p>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/AshNinjaYT">
+    <img src="https://img.shields.io/badge/GitHub-AshNinjaYT-7aa2f7?style=for-the-badge&logo=github" alt="GitHub Footer" />
+  </a>
+</p>
+
 </div>
+
