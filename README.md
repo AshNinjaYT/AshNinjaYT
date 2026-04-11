@@ -93,18 +93,15 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
 
 ---
 
-### 📊 Rendimiento y Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshNinjaYT&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</p>
+### 📊 Rendimiento y Estadísticas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AshNinjaYT&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
