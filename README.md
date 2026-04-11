@@ -114,7 +114,9 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
 <br>
 
 <p align="center">
-  <picture><img src="https://img.shields.io/badge/GitHub-AshNinjaYT-7aa2f7?style=for-the-badge&logo=github" alt="GitHub Footer" /></picture>
+  <a href="https://github.com/AshNinjaYT">
+    <img src="https://img.shields.io/badge/GitHub-AshNinjaYT-7aa2f7?style=for-the-badge&logo=github" alt="GitHub Footer" />
+  </a>
 </p>
 
 </div>
