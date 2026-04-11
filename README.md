@@ -82,21 +82,14 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
 
 ### 📊 Rendimiento y Estadísticas
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; background: transparent;">
-       <img src="https://github-readme-stats.vercel.app/api?username=AshNinjaYT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="border: none; background: transparent;">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none; background: transparent;">
-       <img src="https://streak-stats.demolab.com?user=AshNinjaYT&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AshNinjaYT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshNinjaYT&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
