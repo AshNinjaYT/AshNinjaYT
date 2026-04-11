@@ -85,10 +85,10 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none; background: transparent;">
-       <img src="https://github-readme-stats.vercel.app/api?username=AshNinjaYT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=AshNinjaYT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td align="center" style="border: none; background: transparent;">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshNinjaYT&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshNinjaYT&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
   <tr style="border: none;">
