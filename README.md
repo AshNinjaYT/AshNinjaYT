@@ -86,6 +86,7 @@ Para forjar ideas y convertirlas en realidad, utilizo las siguientes herramienta
 
 <p align="center">
   <picture><img src="https://streak-stats.demolab.com?user=AshNinjaYT&theme=tokyonight" alt="GitHub Streak" /></picture>
+  &nbsp;&nbsp;&nbsp;
   <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshNinjaYT&theme=tokyonight" alt="Top Languages" /></picture>
 </p>
 
