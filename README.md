@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Ash&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" /></picture>
-<picture><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+PL&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Estudiante+de+DAM;Aspirante+a+Game+Developer;Karate+Kyokushin+Fighter+%F0%9F%A5%8B" alt="Typing SVG" /></picture>
+<picture><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+PL&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Estudiante+de+DAM;Aspirante+a+Game+Developer" alt="Typing SVG" /></picture>
 
 > 💡 *Me apasiona la creación de software sólido y el desarrollo de mundos interactivos.*
 
